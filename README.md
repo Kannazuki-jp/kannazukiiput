@@ -2,7 +2,7 @@
 
 Hi there! I'm **Kannazuki-jp**, a tech enthusiast passionate about **Generative AI** and **IoT**. I enjoy exploring new technologies and working on innovative projects.
 
-こんにちは！**Kannazuki-jp** です。 **生成AI** や **IoT** に興味を持つテクノロジー愛好家です。新しい技術を探求し、革新的なプロジェクトに取り組むのが好きです。
+こんにちは！**Kannazuki-jp** です。 **生成AI** や **IoT** に興味を持つエンジニアです。
 
 ---
 
@@ -19,9 +19,6 @@ Currently, I'm learning and experimenting with AI-driven applications and IoT so
 🚧 **No major projects yet, but stay tuned!** 🚀  
 **まだ主要なプロジェクトはありませんが、今後にご期待ください！** 🚀
 
-I'm currently exploring different areas and working on exciting ideas. Contributions and collaborations are always welcome!
-現在、さまざまな分野を模索しながら、エキサイティングなアイデアに取り組んでいます。貢献やコラボレーションは大歓迎です！
-
 ---
 
 ### 📊 GitHub Stats / GitHub統計
@@ -30,8 +27,8 @@ I'm currently exploring different areas and working on exciting ideas. Contribut
 ---
 
 ### 🍸 Fun Fact / おもしろ情報
-Before diving into tech, I worked as a **bartender**! 🍹 If you ever want to chat about cocktails and coding, I'm all ears. 😉
-テクノロジーの世界に入る前は **バーテンダー** をしていました！🍹 カクテルやコーディングについてお話ししたい方は、ぜひお声がけください。😉
+Before becoming an engineer, I was a **bartender**! 🍹 If you ever want to chat about cocktails and coding, I'm all ears. 😉
+エンジニアになる前は **バーテンダー** をしていました！🍹 カクテルやコーディングについてお話ししたい方は、ぜひお声がけください。😉
 
 ---
 
